@@ -1,18 +1,9 @@
 ---
 layout: post
-title:  "First Weekly Note"
+title:  "American Decline"
 date:   2025-03-25 17:27:56 -0400
 categories: weekly 
 ---
-
-# Weekly Note
-
-This is my first weekly note. I have wanted to move on from my daily note scratchpads to a weekly note scratchpad because things tend to carry on over time, and I was using daily notes this way anyway. The other reason was that on this walk, I realized I've been reading and annotating and highlighting lots of things and I should collect it and try to share it more publicly on substack or something. So, all the things I'm sharing, I'm going to try and also keep track of here in my weekly note. It may get unwieldy but thats fine.. If it does, then I can make a weekly folder, which has a 'sharings' file and a 'scratchpad' file under it. But I doubt it. They can just go under separate headings. 
-
-Let's start with the last few things I shared.
-
-# American Decline 
-
 "How did you go bankrupt?" "Two ways. Gradually, then suddenly" - Ernest Hemingway, The Sun Also Rises
 
 Models of systems that evolve over time are often defined in terms of state variables and jump variables. State variables tend to change smoothly - their value in the next period is a function of their value today, implying some stickiness in their movement over time. For example, savings in period 2 is equal to savings in period 1 times the interest rate. Jump variables, as indicated by their name, are not constrained by this. It’s true that the norms underpinning the American political system have been eroding under Trump, and their continued erosion will likely lead to the gradual decline of the country. But if we want to look for potential sources of a violent crash, we should look at jump variables. This leads us to the financial system. The United States is very levered, and has enjoyed a privileged position at the heart of international capital flows for a long time. If something were to threaten that privileged position, it could result in instantaneous movements in capital that result in a hard crash for the country. Carmen Reinhart writes about different types of financial crises:

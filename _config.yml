@@ -29,6 +29,10 @@ github_username:  taimur38
 
 # Build settings
 theme: minima
+
+minima:
+  skin: solarized
+
 plugins:
   - jekyll-feed
 
@@ -51,3 +55,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
