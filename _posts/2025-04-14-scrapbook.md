@@ -55,17 +55,17 @@ Jesus shared a very cool paper from the Barcelona School of Economics on [Climat
 
 [What is behind the Treasury sell-off?](https://on.ft.com/3EieoRn)
 
-In recent years, such trades have exploded — albeit on a scale that is hard to track. Indeed, the explosion is so marked that three of the top five sources for non-US Treasury demand have been Luxembourg, the Cayman Islands and London — hedge fund centres.
-
-The IMF recently (gu)estimated that these trades are worth $1tn, while Bloomberg analysis suggests that hedge funds hold 7 per cent of all Treasuries, seemingly more than dealer banks, and a sharp increase. Slok, for his part, says they total “$800bn and [are] an important part of the $2tn outstanding in prime brokerage balances.”
-
-Either way, as bond markets tumble it seems likely that some funds are being forced to unwind trades, creating a whiplash effect similar to the one seen in 2020. And what makes this worse is that as market luminaries such as Bridgewater founder Ray Dalio issue dire warnings about America’s surging debt, chatter about putative future default risks is rising too.
-
-The White House insists this is ridiculous. But traders know that when Trump was “just” a businessman, he repeatedly defaulted on his own debt. Some of the wilder policy ideas now floating around the White House include putative debt swaps, or quasi restructuring. Once-unimaginable scenarios are being imagined — and priced in.
-
-Then there is the elephant in the bond room: the risk that the US-China trade war turns into a capital war, prompting Beijing (currently the second-biggest holder of Treasuries) to run from dollar assets.
-
-There is scant proof of this happening — yet. But Beijing made one striking money move this week: it has let the renminbi weaken against the dollar, raising the prospect of currency wars. That makes it easier to imagine other scenarios. “Beware a trade war shift to a financial war,” wrote the head of FX research at Deutsche Bank.
+> In recent years, such trades have exploded — albeit on a scale that is hard to track. Indeed, the explosion is so marked that three of the top five sources for non-US Treasury demand have been Luxembourg, the Cayman Islands and London — hedge fund centres.
+> 
+> The IMF recently (gu)estimated that these trades are worth $1tn, while Bloomberg analysis suggests that hedge funds hold 7 per cent of all Treasuries, seemingly more than dealer banks, and a sharp increase. Slok, for his part, says they total “$800bn and [are] an important part of the $2tn outstanding in prime brokerage balances.”
+> 
+> Either way, as bond markets tumble it seems likely that some funds are being forced to unwind trades, creating a whiplash effect similar to the one seen in 2020. And what makes this worse is that as market luminaries such as Bridgewater founder Ray Dalio issue dire warnings about America’s surging debt, chatter about putative future default risks is rising too.
+> 
+> The White House insists this is ridiculous. But traders know that when Trump was “just” a businessman, he repeatedly defaulted on his own debt. Some of the wilder policy ideas now floating around the White House include putative debt swaps, or quasi restructuring. Once-unimaginable scenarios are being imagined — and priced in.
+> 
+> Then there is the elephant in the bond room: the risk that the US-China trade war turns into a capital war, prompting Beijing (currently the second-biggest holder of Treasuries) to run from dollar assets.
+> 
+> There is scant proof of this happening — yet. But Beijing made one striking money move this week: it has let the renminbi weaken against the dollar, raising the prospect of currency wars. That makes it easier to imagine other scenarios. “Beware a trade war shift to a financial war,” wrote the head of FX research at Deutsche Bank.
 
 [Martin Short on Liberation Day](https://www.ft.com/content/d96d4a44-2b75-4222-b77a-afe72c1b9174)
 > His administration is engaged in a comprehensive assault on the American republic and the global order it created. Under attack domestically are the state, the rule of law, the role of the legislature, the role of the courts, the commitment to science and the independence of the universities. All these were the pillars on which US freedom and prosperity rested. Now, he is destroying the liberal international order. Soon, I presume, Trump will be invading countries, as he proceeds to restore the age of empires.
@@ -96,7 +96,9 @@ That’s why it is not just coincidence that the US, with its deep, flexible and
 > ...
 > However if the world is unable to come to such an agreement, the US is justified in acting unilaterally to reverse its role in accommodating policy distortions abroad, as it is doing now. The most effective way is likely to be by imposing controls on the US capital account that limit the ability of surplus countries to balance their surpluses by acquiring US assets. While this may at first seem to go against current US policy under Trump, who wants to increase foreign direct investment, if done correctly capital controls would in fact have little effect on direct investment. A less effective way is through controls on the US trade account, with bilateral tariffs an especially clumsy way of addressing the root causes of trade imbalances.
 
-https://x.com/SteveStuWill/status/1910454933029347488/photo/1
+There was a cool paper which was summarized in this table ![table](https://pbs.twimg.com/media/GoNMoV2bEAAL_Yb?format=png) (credit to the original [tweet](https://x.com/SteveStuWill/status/1910454933029347488/photo/1)). 
+
+I think a very cool exercise to take the list of cognitive biases and try to map them to a few fundamental beliefs that drive them. The nice outcome of this exercise seems to be a relatively small number of fundamental beliefs that can be mapped to these biases. Good to revist these types of fundamental beliefs, or at least identify when they are operating - maybe it will help us take a step back in our thought process. 
 
 Paul Krugman on [The Third Worlding of America](https://paulkrugman.substack.com/p/the-third-worlding-of-america)
 
