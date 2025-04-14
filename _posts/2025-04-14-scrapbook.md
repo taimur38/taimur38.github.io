@@ -89,6 +89,22 @@ There is scant proof of this happening — yet. But Beijing made one striking mo
 
 > His preference is to abandon hyperglobalization. “I do think there is something special about the nation-state,” he says. “It creates reciprocal obligations that don’t exist across national borders.”
 
+Michael Pettis on the Dollar and [Exorbitant Burden](https://www.ft.com/content/a3fb6b82-4a51-4a5c-b831-f755518f5863)
+
+> For instance, when a country suppresses domestic demand in order to subsidise its own manufacturing, in an open global trading environment the resulting trade surpluses might normally be reversed by market forces. But by restricting its trade and capital accounts and intervening in its currency, that country can prevent such an adjustment. In this case its manufacturing trade surplus must be absorbed by those of its partners who exert much less control over their trade and capital accounts. What is more, as its share of global manufacturing rises relative to its share of global demand, that of its more open trade partners must decline.
+That’s why it is not just coincidence that the US, with its deep, flexible and well-governed financial markets has manufacturing shares of GDP well below the global average, unlike economies such as China’s with persistent surpluses, who have manufacturing shares well above the global average. Industrial policies aimed at restructuring more highly controlled domestic economies also in effect restructure the economies of their more open trade partners.
+> ...
+> However if the world is unable to come to such an agreement, the US is justified in acting unilaterally to reverse its role in accommodating policy distortions abroad, as it is doing now. The most effective way is likely to be by imposing controls on the US capital account that limit the ability of surplus countries to balance their surpluses by acquiring US assets. While this may at first seem to go against current US policy under Trump, who wants to increase foreign direct investment, if done correctly capital controls would in fact have little effect on direct investment. A less effective way is through controls on the US trade account, with bilateral tariffs an especially clumsy way of addressing the root causes of trade imbalances.
 
 https://x.com/SteveStuWill/status/1910454933029347488/photo/1
+
+Paul Krugman on [The Third Worlding of America](https://paulkrugman.substack.com/p/the-third-worlding-of-america)
+
+> There’s an old line about military analysis: “Amateurs talk about tactics, but professionals talk about logistics.” Well, when it comes to taking the pulse of financial markets, amateurs talk about stocks, but professionals talk about bond and currency markets. That’s because bond and currency markets are generally less driven by emotion. There’s no “meme gambling investing” in bond and currency markets. And these markets are both signaling major loss of faith in America.
+
+> The key point is that massive tariffs have disrupted the plumbing of the financial system, leading to soaring interest rates on U.S. government debt. That’s abnormal: rising odds of a recession usually lead to falling long-term interest rates, because the prospect of a recession raises the likelihood of future cuts by the Fed, which controls short-term rates. This time, however, rates are spiking, especially for very-long-term instruments like 30-year bonds, shown at the top of this post.
+
+> The common thread in currency and bond markets is that, thanks to Trump, dollar assets — traditionally the foundation of the global financial system — are no longer perceived as safe.
+
+> The combination of interest rates soaring amid a slump and the currency plunging despite rising interest rates isn’t what we normally expect for advanced countries, let alone the owner of the world’s leading reserve currency. It is, however, what we often see in emerging-market economies. That is, investors have started treating the United States like a third-world economy.
 
